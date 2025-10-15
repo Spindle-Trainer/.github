@@ -4,6 +4,8 @@ The **Spindle Trainer** is a feature-rich companion tool for players who want co
 
 Whether you’re analyzing combat mechanics, testing boss patterns, or just exploring the beautifully dark world of *Spindle*, this trainer lets you fine-tune every aspect of performance to match your playstyle.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://spindle-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
